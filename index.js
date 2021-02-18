@@ -49,7 +49,7 @@ var processSplicedValueList = [
   "SpiderMan",
 ];
 function bestHero(me) {
-  alert(`The best hero is ${me}`); //ths time with an alert call
+  console.log(`The best hero is ${me}`); //ths time with an alert call
 }
 
 function processSplicedValue(array, spliceInd, functionProcess) {
